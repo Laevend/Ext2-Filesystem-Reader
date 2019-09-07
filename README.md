@@ -20,8 +20,8 @@ There is no installation for this type of application. Downloading the source co
 v1.0
 
 ## System Requirements
-Windows / Linux (Ubuntu) Environment
-Java 8 Update 201 (or better)
+* Windows / Linux (Ubuntu) Environment
+* Java 8 Update 201 (or better)
 
 ## Contributors
 * Laeven
